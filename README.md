@@ -1,5 +1,5 @@
 # System Checker
-I made this because of Sechex https://github.com/SecHex/SecHex-SerialChecker I think mine is better
+im better
 
 # What it gets
 
